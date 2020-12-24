@@ -1,0 +1,9 @@
+a=3
+b=4
+c=a*b
+a=b*c
+b=a+c
+c=a+b+c
+print(a)
+print(b)
+print(c)

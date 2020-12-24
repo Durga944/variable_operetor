@@ -1,0 +1,10 @@
+a=(4+3)/3
+print(a)
+a=a*8/4
+print(a)
+a=a/2*10
+print(a)
+a=a+2*10
+print(a)
+a=a+2*10-5
+print(a)

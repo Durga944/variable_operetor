@@ -1,0 +1,9 @@
+a=100
+a=a*2
+print(a)
+a=a/4
+print(a)
+a=a+3*a
+print(a)
+a=a-a/4
+print(a)
